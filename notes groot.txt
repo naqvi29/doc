@@ -1,0 +1,9 @@
+bug no 1-
+form add karty waqt form_entry table mai entry nh horahi isko fix karo.
+done
+
+bug no 2-
+rights_table mai rights milne chaheye user ko
+
+bug no 3-
+entry nh jarahi isko fix karo backend py form ka data nh pouuch raha front end javascript mai koi issue hai.
